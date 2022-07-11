@@ -1,0 +1,10 @@
+/Users/macbookpro/CodingBootCamp-Homework/CatWorx.BadgeMaker/bin/Debug/net6.0/publish/CatWorx.BadgeMaker
+/Users/macbookpro/CodingBootCamp-Homework/CatWorx.BadgeMaker/bin/Debug/net6.0/publish/CatWorx.BadgeMaker.dll
+/Users/macbookpro/CodingBootCamp-Homework/CatWorx.BadgeMaker/bin/Debug/net6.0/publish/CatWorx.BadgeMaker.deps.json
+/Users/macbookpro/CodingBootCamp-Homework/CatWorx.BadgeMaker/bin/Debug/net6.0/publish/CatWorx.BadgeMaker.runtimeconfig.json
+/Users/macbookpro/CodingBootCamp-Homework/CatWorx.BadgeMaker/bin/Debug/net6.0/publish/CatWorx.BadgeMaker.pdb
+/Users/macbookpro/CodingBootCamp-Homework/CatWorx.BadgeMaker/bin/Debug/net6.0/publish/Microsoft.Win32.SystemEvents.dll
+/Users/macbookpro/CodingBootCamp-Homework/CatWorx.BadgeMaker/bin/Debug/net6.0/publish/System.Drawing.Common.dll
+/Users/macbookpro/CodingBootCamp-Homework/CatWorx.BadgeMaker/bin/Debug/net6.0/publish/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/macbookpro/CodingBootCamp-Homework/CatWorx.BadgeMaker/bin/Debug/net6.0/publish/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/macbookpro/CodingBootCamp-Homework/CatWorx.BadgeMaker/bin/Debug/net6.0/publish/runtimes/win/lib/net6.0/System.Drawing.Common.dll
