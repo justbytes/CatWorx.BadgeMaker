@@ -22,6 +22,8 @@ This will generate 10 employee badges that look like the following:
 
 ![employeeBadge](./data/458472172_badge.png)
 
+In order to input custom employees via CLI we would need to change line 15 in Program.cs to GetEmployees() instead of GetFromApi().
+
 ### Contributing
 
 If you would like to contribute to this app please fork the repo and submit a pull request.
