@@ -15,7 +15,5 @@ dotnet run
 
 This will generate 10 employee badges that look like the following:
 
-![employeeBadge](./data/458472172_badge.png)
-
 In order to input custom employees via CLI change line 15 in Program.cs to GetEmployees() instead of GetFromApi().
 
