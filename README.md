@@ -1,8 +1,8 @@
-# CatWorx.BadgeMaker
+# Badge Maker
 
 ## Description
 
-This app was built for users that need to make badges for their employees. Badges will be generated after the user enters a first and last name, Id number, and photo URL for their employee. This is possible by using the System.Drawing namespace provided by the .NET framework to build the badge and render all of the employee information from the CSV file. Currently badges are being made with "employee" data from the [Random User Generator API](https://randomuser.me/documentation) which is being used to generate ten random employees.
+Creates a single badge or a group of badges with a supplied image of both a badge background and employee (or whoever needs the badge).
 
 
 ### Usage
